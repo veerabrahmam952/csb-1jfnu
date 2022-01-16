@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://veerabrahmam952.github.io/csb-1jfnu/static/css/main.6df458b6.chunk.css",
+    "main.js": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/main.1e098ee5.chunk.js",
+    "main.js.map": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/main.1e098ee5.chunk.js.map",
+    "runtime-main.js": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/runtime-main.93eed302.js",
+    "runtime-main.js.map": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/runtime-main.93eed302.js.map",
+    "static/js/2.b70e4bf2.chunk.js": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/2.b70e4bf2.chunk.js",
+    "static/js/2.b70e4bf2.chunk.js.map": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/2.b70e4bf2.chunk.js.map",
+    "static/js/3.de0627f1.chunk.js": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/3.de0627f1.chunk.js",
+    "static/js/3.de0627f1.chunk.js.map": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/3.de0627f1.chunk.js.map",
+    "index.html": "https://veerabrahmam952.github.io/csb-1jfnu/index.html",
+    "static/css/main.6df458b6.chunk.css.map": "https://veerabrahmam952.github.io/csb-1jfnu/static/css/main.6df458b6.chunk.css.map",
+    "static/js/2.b70e4bf2.chunk.js.LICENSE.txt": "https://veerabrahmam952.github.io/csb-1jfnu/static/js/2.b70e4bf2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://veerabrahmam952.github.io/csb-1jfnu/static/media/Main Back - ZIP Code_old.a5ac6c22.jpg",
+    "static/media/National_logo.2b261fbb.png": "https://veerabrahmam952.github.io/csb-1jfnu/static/media/National_logo.2b261fbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93eed302.js",
+    "static/js/2.b70e4bf2.chunk.js",
+    "static/css/main.6df458b6.chunk.css",
+    "static/js/main.1e098ee5.chunk.js"
+  ]
+}
